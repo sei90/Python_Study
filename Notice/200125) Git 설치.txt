@@ -1,0 +1,10 @@
+https://lee-mandu.tistory.com/297?category=715432
+에서 git 설치
+
+git CMD 창 열기
+
+cd로 바탕화면으로 디렉토리 이동
+
+git clone https://github.com/sei90/Python_Study.git
+
+만약 안 되면 에러메세지 창을 캡쳐해서 주세요.....
